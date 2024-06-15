@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AtmosphereOS-inc
+- 👀 I’m interested in coding , football
+- 🌱 I’m currently learning scratch
+- 💞️ I’m looking to collaborate on scratch-
+- 📫 How to reach me - Just send me E-mail on dominicrosario14@outlook.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I like coding
