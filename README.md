@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding , football
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on scratch-
-- 📫 How to reach me - Just send me E-mail on dominicrosario14@outlook.com
+- 📫 How to reach me - Just send me E-mail on quantastic01@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like coding
