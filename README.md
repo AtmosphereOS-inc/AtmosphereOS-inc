@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtmosphereOS-inc
-- 👀 I’m interested in coding , football
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on scratch-
+- 👀 I’m interested in coding with JS
+- 🌱 I’m currently learning Python, it is the only thing I have to master for now.
+- 💞️ For collabs with me, you need VS Code and Discord. My Discord username is atmosphereos_inc 
 - 📫 How to reach me - Just send me E-mail on quantastic01@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like coding
